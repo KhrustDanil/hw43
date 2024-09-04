@@ -1,0 +1,11 @@
+.text {
+  height: 45px;
+  width: 295px;
+  margin-top: 10px;
+  border: 2px solid rgb(121, 245, 208);
+  border-radius: 5px;
+  padding-top: 10px;
+  padding-left: 10px;
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+}
